@@ -15,7 +15,9 @@ self motivation and natural passion for continuous learning and self-development
  <!-- CONNECT WITH ME LINKS -->
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
  
-  [!Instagram Badge](https://img.shields.io/static/v1?label=<instagram>&message=<hi>&color=<orange>)](https://www.instagram.com/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangwamezz@gmail.com) 
+ 
+  [Instagram Badge](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColorange)(https://www.instagram.com/)
+   [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangwamezz@gmail.com) 
 <hr>
  [![GitHub Badge](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=GitHub&logoColor=61DAFB)](#)
  [![c Badge](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
